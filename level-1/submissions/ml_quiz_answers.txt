@@ -1,0 +1,28 @@
+﻿q1. Define supervised learning from learners perspective? Provide an example.
+A) Supervised learning is a type of machine learning that assigns data to learners (models) to learn the relationship between input  and output. The  goal of the learner is to expand this relationship so that the invisible information is correct.
+
+Example: Imagine you are teaching a computer to recognize handwritten digits (0–9) using the MNIST dataset:
+
+Inputs (Features): Images of handwritten digits.
+Outputs (Labels): The actual digit each image represents (e.g., 0, 1, 2, ..., 9).
+Task: The learner is trained on a set of images (input) paired with their correct digits (labels). After training, it can predict the digit in a new, unseen image.
+
+q2. Explain the difference between supervised and unsupervised learning.  
+A) Supervised Learning: Learn a mapping from inputs to outputs.
+Unsupervised Learning: Discover patterns, structures, or relationships in data.
+
+q3. How is reinforcement learning different from supervised learning? 
+A) Reinforcement Learning focuses on learning through interaction and delayed rewards.
+Supervised Learning relies on labeled data and immediate feedback to train a predictive model.
+
+
+
+
+
+
+ 
+
+
+
+
+
