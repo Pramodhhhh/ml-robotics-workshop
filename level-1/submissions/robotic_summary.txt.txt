@@ -1,0 +1,13 @@
+Robots are programmable machines designed to perform tasks autonomously or semi-autonomously.
+The key components of a robot are:
+1. Mechanical Structure: This traditional machine design is a parallel of human arm structure composed of cantilevered beams, forming a sequence of arm links connected by hinged joints.
+2. Sensors: These devices provide internal and external environmental data essential for feedback and control.
+3. Actuators: These drive motion in robot's parts.
+4. Controllers: The programmed commands are processed by the controllers to execute tasks accurately.
+
+Applications of robot in real world:
+
+1. Robots(Surgical Robots) are used in surgical fields helping doctors in surgeries. They perform surgeries with high precision.
+2. Robots are extensively used for assembly, welding, and material handling on production lines due to their precision and ability to adapt to flexible production requirements.
+3. Robots, such as Mars rovers, explore uninhabitable environments, analyze terrain, and conduct scientific research where human presence is impossible.
+
